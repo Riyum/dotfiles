@@ -1,0 +1,47 @@
+# Top Themes
+# - ~/.config/alacritty/themes/Tomorrow.dark.yml 
+# - ~/.config/alacritty/themes/Eqie6.yml
+# - ~/.config/alacritty/themes/Ayu-Dark.yml
+# - ~/.config/alacritty/themes/Oxide.yml
+# - ~/.config/alacritty/themes/X-dotshare.yml
+# - ~/.config/alacritty/themes/Tangoesque.yml
+# - ~/.config/alacritty/themes/Twilight.dark.yml
+# - ~/.config/alacritty/themes/Sourcerer.yml
+
+# - ~/.config/alacritty/themes/User 77 - Mashup colors.yml
+# - ~/.config/alacritty/themes/falcon.yml
+# - ~/.config/alacritty/themes/papercolor_dark.yml
+# - ~/.config/alacritty/themes/smoooooth.yml
+# - ~/.config/alacritty/themes/omni.yml
+# - ~/.config/alacritty/themes/Monokai-Soda.yml
+
+# - ~/.config/alacritty/themes/Wombat.yml
+# - ~/.config/alacritty/themes/Taerminal.yml
+# - ~/.config/alacritty/themes/horizon-dark.yml
+# - ~/.config/alacritty/themes/Pencil-Dark.yml
+import:
+ - ~/.config/alacritty/themes/Eqie6.yml
+
+window:
+  opacity: 1
+  padding:
+    x: 3
+    y: 3
+
+font:
+  size: 10
+  normal:
+    family: Literation Mono Nerd Font
+    style: Regular
+  bold:
+    family: Literation Mono Nerd Font
+    style: Bold
+  italic:
+    family: Literation Mono Nerd Font
+    style: Italic
+  bold_italic:
+    family: Literation Mono Nerd Font
+    style: Bold Italic
+
+selection:
+  save_to_clipboard: true

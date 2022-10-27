@@ -1,0 +1,39 @@
+# - ~/.config/alacritty/themes/falcon.yml
+# - ~/.config/alacritty/themes/papercolor_dark.yml
+# - ~/.config/alacritty/themes/smoooooth.yml
+# - ~/.config/alacritty/themes/Xterm.yml
+# - ~/.config/alacritty/themes/Tomorrow.dark.yml 
+# - ~/.config/alacritty/themes/Ayu-Dark.yml
+# - ~/.config/alacritty/themes/omni.yml
+
+# - ~/.config/alacritty/themes/Wombat.yml
+# - ~/.config/alacritty/themes/Taerminal.yml
+# - ~/.config/alacritty/themes/horizon-dark.yml
+# - ~/.config/alacritty/themes/Pencil-Dark.yml
+
+import:
+ - ~/.config/alacritty/themes/3024.dark.yml
+
+window:
+  opacity: 1
+  padding:
+    x: 3
+    y: 3
+      
+font:
+  size: 9
+  normal:
+    family: Literation Mono Nerd Font
+    style: Regular
+  bold:
+    family: Literation Mono Nerd Font 
+    style: Bold
+  italic:
+    family: Literation Mono Nerd Font
+    style: Italic
+  bold_italic:
+    family: Literation Mono Nerd Font
+    style: Bold Italic
+
+selection:
+  save_to_clipboard: true

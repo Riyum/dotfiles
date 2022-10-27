@@ -1,0 +1,14 @@
+# set modifier
+set $mod Mod4
+
+#font for window titles
+font pango:Cozette 10
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# imports
+include ~/.config/i3/navigation.conf
+include ~/.config/i3/startup.conf
+include ~/.config/i3/windowSettings.conf
+include ~/.config/i3/keyBindings.conf
